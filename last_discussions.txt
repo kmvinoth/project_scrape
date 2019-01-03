@@ -1,0 +1,8 @@
+1. scrap learn more information 
+
+2. write the workflow for database update and cron job
+ 
+3. take data from daad for scholarships details 
+ 
+
+Saurav give me the AWS api details
